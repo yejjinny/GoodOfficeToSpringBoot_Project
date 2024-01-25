@@ -7,3 +7,7 @@
 
 ## 🕰️ 개발 기간
 - 2024.01.26 ~ 
+
+## 🖥️ 참고사이트
+쌍용강북교육센터_파이널프로젝트 2조) GroupWare 벤치마킹
+- https://github.com/yejjinny/GoodOffice_Project
